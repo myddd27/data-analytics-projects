@@ -29,11 +29,25 @@ Proyek ini menggunakan computer vision untuk mendeteksi apakah seseorang menggun
 
 ---
 
-### 3️⃣ **Sentiment Analysis (Google Colab)**  
+### 3️⃣ **Sentiment Analysis (Google Colab) (Kelompok)**  
 **Deskripsi:**  
-Proyek ini menganalisis sentimen dari data Twitter terkait isu tertentu. Data yang diperoleh melalui crawling kemudian dianalisis untuk menentukan sentimen positif, negatif, atau netral. 
+Proyek (Kelompok) ini menganalisis sentimen dari data Twitter terkait isu korupsi harvey moeis. Data yang diperoleh melalui crawling kemudian dianalisis untuk menentukan sentimen positif, negatif, atau netral. 
 
 **Teknologi:** Pandas, Scikit-Learn, Google Colab  
 **Metode:** Naive Bayes Classifier  
 
-- [Buka notebook di Colab](https://colab.research.google.com/drive/1Mk4ROWGwh7ZwX4YQWdsi1IpOXAKCGLYV?usp=sharing)  
+- [Buka notebook di Colab](https://colab.research.google.com/drive/1Mk4ROWGwh7ZwX4YQWdsi1IpOXAKCGLYV?usp=sharing)
+
+---
+
+## 🔖 Sertifikasi  
+1. **Belajar Dasar Data Science** - Dicoding, 2024  
+   [Lihat Sertifikat](https://www.dicoding.com/certificates/KEXL1JW7YXG2)
+   
+3. **Belajar Dasar SQL** - Dicoding, 2024  
+   [Lihat Sertifikat](https://www.dicoding.com/certificates/98XWL1LJ9ZM3)  
+
+4. **Belajar Dasar AI** - Dicoding, 2024  
+   [Lihat Sertifikat](https://www.dicoding.com/certificates/JMZV3JV4NPN9)  
+
+
